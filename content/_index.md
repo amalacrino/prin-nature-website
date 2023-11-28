@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        PRIN NATURE is a research project funded by the Italian Ministry of University and Research with the goal of unveiling the mechanisms behind the assembly and functioning on the plant microbiome.
   
   - block: collection
     content:
@@ -32,7 +32,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
+      view: compact
       columns: '1'
   
 #  - block: markdown
