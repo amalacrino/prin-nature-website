@@ -11,7 +11,7 @@ sections:
         PRIN NATURE
       image:
         filename: murlogo.png
-        resize_options="250x250"
+	size: contain
       text: |
         <br>
         
