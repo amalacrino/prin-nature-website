@@ -10,10 +10,6 @@ organizations:
   - name: Università degli Studi di Milano
     url: 'https://www.unimi.it/it/ugov/person/francesca-mapelli'
 
-interests:
-  - a
-  - a
-  - a
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

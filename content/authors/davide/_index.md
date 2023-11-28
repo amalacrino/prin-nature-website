@@ -10,10 +10,6 @@ organizations:
   - name: Università degli Studi di Torino
 #    url: ''
 
-interests:
-  - a
-  - a
-  - a
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

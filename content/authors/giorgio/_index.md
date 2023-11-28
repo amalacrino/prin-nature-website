@@ -10,10 +10,6 @@ organizations:
   - name: CNR IPSP
 #    url: ''
 
-interests:
-  - a
-  - a
-  - a
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
