@@ -27,7 +27,7 @@ publication_types: ['2']
 publication: 'Nature Communications'
 publication_short: ''
 
-abstract: The extreme miniaturization in NEMS resonators offers the possibility to reach an unprecedented resolution in high-performance mass sensing. These very low limits of detection are related to the combination of two factors: a small resonator mass and a high quality factor. The main drawback of NEMS is represented by the highly complex, multi-steps, and expensive fabrication processes. Several alternatives fabrication processes have been exploited, but they are still limited to MEMS range and very low-quality factor. Here we report the fabrication of rigid NEMS resonators with high-quality factors by a 3D printing approach. After a thermal step, we reach complex geometry printed devices composed of ceramic structures with high Young’s modulus and low damping showing performances in line with silicon-based NEMS resonators ones. We demonstrate the possibility of rapid fabrication of NEMS devices that present an effective alternative to semiconducting resonators as highly sensitive mass and force sensors.
+abstract:
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
