@@ -30,4 +30,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Stefano Stassi is Associate Professor in Experimental physics of matter at the Department of Applied Science and Technology in Politecnico di Torino. He completed his PhD studies in Physics in 2013 from Politecnico di Torino and Istituto Italiano di Tecnologia, Torino, Italy. He is author and co-author of  more than 70 works on international peer review journals in the field of nanomechanical resonating sensors and wearable sensor devices based on piezoresistive and piezoelectric materials.

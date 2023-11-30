@@ -1,7 +1,7 @@
 ---
 title: 'A Meta-Analysis Approach to Defining the Culturable Core of Plant Endophytic Bacterial Communities'
 authors:
-  - Valentina Riva
+  - valentina
   - francesca
   - Agense Bagnasco
   - Alessio Mengoni

@@ -2,8 +2,8 @@
 title: 'Unveiling the Microbiota Diversity of the Xerophyte Argania spinosa L. Skeels Root System and Residuesphere'
 authors:
   - francesca
-  - Valentina Riva
-  - Lorenzo Vergani
+  - valentina
+  - lorenzo
   - Redouane Choukrallah 
   - Sara Borin
 

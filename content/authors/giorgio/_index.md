@@ -19,7 +19,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:giorgio.gambino@ipsp.cnr.it' 
- 
+- icon: google-scholar
+  icon_pack: ai
+  link:  https://scholar.google.com/citations?user=06rtTEUAAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Giorgio-Gambino
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -30,4 +35,11 @@ user_groups:
   - Principal Investigators
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Attività di ricerca focalizzate sullo studio delle interazioni pianta-patogeno-ambiente in vite:
+Analisi funzionali di geni d’interesse in vite e piante modello mediante trasformazione genetica, incluso cisgenesi e genome editing.
+
+Caratterizzazione dei meccanismi alla base del processo di embriogenesi somatica in vite e applicazioni al miglioramento genetico della specie
+
+Studio delle interazioni tra virus, patogeni fungini e vite mediante analisi ecofisiologiche e trascrittomiche
+
+Marcatori molecolari per la tracciabilità e rintracciabilità del materiale di propagazione viticolo e per la tracciabilità genetica in mosti e vini.

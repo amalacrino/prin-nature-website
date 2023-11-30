@@ -3,7 +3,7 @@ title: 'Bacterial culturing is crucial to boost sustainable agriculture'
 authors:
   - francesca
   - Alessio Mengoni
-  - Valentina Riva
+  - valentina
   - Sara Borin
 
 #author_notes:
