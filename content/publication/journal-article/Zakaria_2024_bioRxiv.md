@@ -1,19 +1,19 @@
 ---
-title: 'Bacterial culturing is crucial to boost sustainable agriculture'
+title: 'Lettuce seedlings rapidly assemble their microbiome from the environment through deterministic processes'
 authors:
-  - francesca
-  - Alessio Mengoni
-  - valentina
-  - Sara Borin
+  - Nesma Zakaria Mohamed
+  - leonardo
+  - antonino
+
 
 #author_notes:
 # - 'Equal contribution'
 # - 'Equal contribution'
-date: '2023-10-27T00:00:00Z'
-doi: '10.1016/j.tim.2022.10.005'
+date: '2024-01-07T00:00:00Z'
+doi: '10.1101/2024.01.05.574372'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-10-27T00:00:00Z'
+publishDate: '2024-01-07T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,10 +22,10 @@ publishDate: '2023-10-27T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Trends in Microbiology'
+publication: 'Biological Control'
 publication_short: ''
 
-abstract: The huge amount of information on microbiomes gained through the advancement of high-throughput sequencing methods has been translated only partially into concrete solutions for societal needs. Here, we highlight that bacterial culturing remains pivotal in microbiology and is crucial for the effective application of plant probiotics in sustainable agriculture.
+abstract:
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

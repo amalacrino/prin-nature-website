@@ -13,11 +13,11 @@ authors:
 #author_notes:
 # - 'Equal contribution'
 # - 'Equal contribution'
-date: '2022-10-26T00:00:00Z'
+date: '2023-10-26T00:00:00Z'
 doi: '10.1016/j.postharvbio.2022.112163'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '022-10-26T00:00:00Z'
+publishDate: '2023-10-26T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
