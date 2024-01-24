@@ -6,12 +6,10 @@ sections:
   - block: markdown
     id: section-1
     content:
-      title: Section 1
-      subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: The ever-increasing demand for food availability, in tandem with the increasing world population, deteriorating natural resources, and increased urbanization, emphasizes the importance of research that aims to improve plant health and food production and quality. To provide food sustainably, it is essential to increase food production while reducing negative environmental impacts such as soil, water and nutrient loss, greenhouse gas emissions and degradation of ecosystems. According to the UN Food and Agricultural Organization (FAO), 40-50% of root crops, fruits and vegetables produced globally are lost each year to pests and pathogens (FAOSTAT 2016).
 ---
 
-The ever-increasing demand for food availability, in tandem with the increasing world population, deteriorating natural resources, and increased urbanization, emphasizes the importance of research that aims to improve plant health and food production and quality. To provide food sustainably, it is essential to increase food production while reducing negative environmental impacts such as soil, water and nutrient loss, greenhouse gas emissions and degradation of ecosystems. According to the UN Food and Agricultural Organization (FAO), 40-50% of root crops, fruits and vegetables produced globally are lost each year to pests and pathogens (FAOSTAT 2016).
+
 
 Recent discoveries have shown that the microorganisms associated with plants, also known as the plant microbiome, have a great impact on plant health and productivity. Due to the direct and important role of these microorganisms they are also referred to as the plant second genome. These recent findings have opened new frontiers in plant science, representing a paradigm shift in how we tackle plant problems. However, despite the current evidence suggesting the key role of the plant microbiome, this field of research has lagged behind the pace of rapidly changing agricultural and environmental circumstances. In fact, information on the microbiome of important agricultural crops and the ways to exploit beneficial microorganisms to improve plants health is still lacking, and so far, there has not been rigorous research addressed to understand and benefit from this vastly unexplored field. Deciphering the role/function of the plant microbiome, is usually hindered by the complex interaction between a high number of microorganisms and the host as well as the difficulty to evaluate and monitor the impact of these microorganisms on the plant. Hence, the ability to work with plants devoid of microorganisms (i.e. gnotobiotic), may represent a key strategy to understand the role of the microbiome as whole or as individual microorganisms.
    
